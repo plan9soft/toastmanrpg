@@ -1,0 +1,1 @@
+Toastman is a comic character created by Tomaz, this is a project that develop the game and scripts for rpg maker.
